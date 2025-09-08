@@ -11,6 +11,7 @@ Sur OpenDesktop : télécharger OS Catalina (icons)  et WhiteSur GTK (light)
 
 # Historique Presse Papier
 Installer Diodon puis ajouter raccourci vers /usr/bin/diodon pour WIN+V
+https://dev.to/abanoubha/how-to-set-winv-shortcut-for-clipboard-history-in-ubuntu-linux--3d5c
 
 
 # Video à regarder
