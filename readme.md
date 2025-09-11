@@ -13,6 +13,9 @@ Sur OpenDesktop : télécharger OS Catalina (icons)  et WhiteSur GTK (light)
 Installer Diodon puis ajouter raccourci vers /usr/bin/diodon pour WIN+V
 https://dev.to/abanoubha/how-to-set-winv-shortcut-for-clipboard-history-in-ubuntu-linux--3d5c
 
+# Customisation de CINNAMON
+
+https://www.youtube.com/watch?v=OwBKbuy7U8s
 
 # Video à regarder
 
