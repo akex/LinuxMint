@@ -27,3 +27,5 @@ Installation de proton-GE
 https://forum.zorin.com/t/how-to-install-custom-proton-ge-in-steam/44032
 
 Essayer LUTRIS et installer ProtonUp-Qt
+
+https://www.youtube.com/watch?v=KXA1KqPmmYU
