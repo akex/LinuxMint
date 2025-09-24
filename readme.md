@@ -20,3 +20,10 @@ https://www.youtube.com/watch?v=OwBKbuy7U8s
 # Video à regarder
 
 https://www.youtube.com/watch?v=aFzuGVTG2gQ
+
+# STEAM
+
+Installation de proton-GE 
+https://forum.zorin.com/t/how-to-install-custom-proton-ge-in-steam/44032
+
+Essayer LUTRIS et installer ProtonUp-Qt
