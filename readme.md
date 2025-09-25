@@ -29,3 +29,11 @@ https://forum.zorin.com/t/how-to-install-custom-proton-ge-in-steam/44032
 Essayer LUTRIS et installer ProtonUp-Qt
 
 https://www.youtube.com/watch?v=KXA1KqPmmYU
+
+# Gestion clavier et souris
+
+Installer Solaar 
+
+https://pwr-solaar.github.io/Solaar/installation/
+
+ne pas oublier de copier le fichier rules
