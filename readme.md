@@ -37,3 +37,7 @@ Installer Solaar
 https://pwr-solaar.github.io/Solaar/installation/
 
 ne pas oublier de copier le fichier rules
+
+# Gestion manette
+
+https://codeberg.org/fabiscafe/game-devices-udev
