@@ -38,6 +38,11 @@ https://pwr-solaar.github.io/Solaar/installation/
 
 ne pas oublier de copier le fichier rules
 
+# Office
+
+https://www.youtube.com/watch?v=LH-6tp-KBuQ
+
+
 # Gestion manette
 
 https://codeberg.org/fabiscafe/game-devices-udev
